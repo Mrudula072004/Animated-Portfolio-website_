@@ -22,13 +22,13 @@ const Contact = () => {
           <a href="https://www.google.com" target="_blank" className="items">
             <CiFacebook className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.linkedin.com/in/mrudula-ligade-36ab58221/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
           <a href="https://www.google.com" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
           </a>
-          <a href="https://www.github.com" target="_blank" className="items">
+          <a href="https://github.com/Mrudula05082004" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
           <a
